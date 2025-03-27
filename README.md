@@ -1,1 +1,1 @@
-# laravel-crud-student-managment
+# laravel-crud-student-management
